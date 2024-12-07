@@ -9,10 +9,10 @@ tg.onEvent('mainButtonClicked', () => {
 
 const cart = [];
 const menuItems = [
-    { id: 1, name: "Burger", price: 50000, image: "images/burger.jpg" },
-    { id: 2, name: "Pizza", price: 75000, image: "images/pizza.jpg" },
-    { id: 3, name: "French Fries", price: 30000, image: "images/fries.jpg" },
-    { id: 4, name: "Cola", price: 15000, image: "images/cola.jpg" },
+    { id: 1, name: "Burger", price: 50000, image: "https://dummyimage.com/400x400/000/0011ff&text=burger" },
+    { id: 2, name: "Pizza", price: 75000, image: "https://dummyimage.com/400x400/000/0011ff&text=burger" },
+    { id: 3, name: "French Fries", price: 30000, image: "https://dummyimage.com/400x400/000/0011ff&text=burger" },
+    { id: 4, name: "Cola", price: 15000, image: "https://dummyimage.com/400x400/000/0011ff&text=burger" },
 ];
 
 // Display menu
